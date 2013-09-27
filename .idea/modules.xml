@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TriviaQuiz/TriviaQuiz.iml" filepath="$PROJECT_DIR$/TriviaQuiz/TriviaQuiz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TriviaQuizProject.iml" filepath="$PROJECT_DIR$/TriviaQuizProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/trivia-quiz.iml" filepath="$PROJECT_DIR$/trivia-quiz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../workspace_android.iml" filepath="$PROJECT_DIR$/../workspace_android.iml" />
     </modules>
   </component>
 </project>
