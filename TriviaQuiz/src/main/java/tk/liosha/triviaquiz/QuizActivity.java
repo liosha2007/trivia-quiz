@@ -5,19 +5,6 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class QuizActivity extends Activity {
+    public static final String GAME_PREFERENCES = "GamePrefs";
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.quiz_layout);
-    }
-
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.quiz, menu);
-        return true;
-    }
-    
 }
